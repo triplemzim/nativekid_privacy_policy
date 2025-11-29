@@ -1,6 +1,6 @@
 # Privacy Policy for NativeKid
 
-**Last Updated:** November 27, 2024
+**Last Updated:** November 27, 2025
 
 ## Introduction
 
@@ -65,7 +65,7 @@ Request a copy of the personal information we hold about you.
 
 ### Delete Your Data
 Request deletion of your account and all associated data by:
-- Emailing us at: **triplemzim@gmail.com**
+- Emailing us at: **nativekidbd@gmail.com**
 - We will delete your data within 30 days of your request
 
 ### Opt-Out
@@ -91,7 +91,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** triplemzim@gmail.com  
+**Email:** nativekidbd@gmail.com  
 **Developer:** Muhim
 
 ## Consent
@@ -103,17 +103,18 @@ By using NativeKid, you consent to this Privacy Policy and agree to its terms.
 ## For Parents/Guardians
 
 ### How to Delete Your Child's Data:
-1. Email us at triplemzim@gmail.com with the subject "Data Deletion Request"
+1. Email us at nativekidbd@gmail.com with the subject "Data Deletion Request"
 2. Include the email address associated with the account
 3. We will confirm deletion within 30 days
 
 ### How to Review Your Child's Data:
-1. Email us at triplemzim@gmail.com with the subject "Data Access Request"
+1. Email us at nativekidbd@gmail.com with the subject "Data Access Request"
 2. We will provide a copy of all stored data within 30 days
 
 ### Questions or Concerns:
-Please don't hesitate to contact us at triplemzim@gmail.com with any questions about how we handle your child's information.
+Please don't hesitate to contact us at nativekidbd@gmail.com with any questions about how we handle your child's information.
 
 ---
 
 **Note:** This privacy policy is provided as a template. You should review it with a legal professional to ensure it meets all applicable laws and regulations in your jurisdiction.
+
